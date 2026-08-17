@@ -28,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi! I am Xinjing Liu (刘新敬). I am currently a first-year Ph.D. student in Artificial Intelligence at the School of Intelligent Science and Technology, Nanjing University (NJU), advised by [Prof. Yang Gao](https://is.nju.edu.cn/gy_en/main.htm) and Assoc. Prof. Boyan Wang.
+Hi! I am Xinjing Liu (柳心敬). I am currently a first-year Ph.D. student in Artificial Intelligence at the School of Intelligent Science and Technology, Nanjing University (NJU), advised by [Prof. Yang Gao](https://is.nju.edu.cn/gy_en/main.htm) and Assoc. Prof. Boyan Wang.
 
 Previously, I received my Master of Engineering (M.E.) degree from Beijing University of Posts and Telecommunications (BUPT) in 2026.
 
